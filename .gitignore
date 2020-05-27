@@ -11,3 +11,10 @@ Procfile
 stopwatch-242419-8d258134234c.json
 *.mp3
 *.wav
+test.js
+*.raw
+championParser.js
+cloud.js
+riot-api-java.jar
+stopwatch.iml
+voiceRecog.js
