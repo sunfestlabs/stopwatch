@@ -5,7 +5,6 @@ node_modules
 .DS_STORE
 target
 passwords.txt
-*.xml
 Procfile
 .mvn-classpath
 stopwatch-242419-8d258134234c.json
